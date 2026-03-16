@@ -1,0 +1,23 @@
+{
+  "id": "sdk/index",
+  "title": "Overview",
+  "description": "Welcome to the AuthSec SDK documentation. Our SDKs provide programmatic access to AuthSec services, enabling you to integrate authentication, authorization, and workload identity management into your applications.",
+  "source": "@site/docs/sdk/index.md",
+  "sourceDirName": "sdk",
+  "slug": "/sdk/",
+  "permalink": "/sdk/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Overview",
+    "sidebar_position": 1
+  },
+  "sidebar": "sdkSidebar",
+  "next": {
+    "title": "MCP Servers & AI Agents",
+    "permalink": "/sdk/clients/mcp-servers"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "administration/enterprise-features/logs-config/index",
+  "title": "Logs Configuration",
+  "description": "Configure output destinations for your logs: Splunk, HTTP endpoints, Syslog servers, or Elasticsearch.",
+  "source": "@site/docs/administration/enterprise-features/logs-config/index.md",
+  "sourceDirName": "administration/enterprise-features/logs-config",
+  "slug": "/administration/enterprise-features/logs-config/",
+  "permalink": "/administration/enterprise-features/logs-config/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Logs Configuration",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Logs Configuration",
+    "permalink": "/category/logs-configuration"
+  },
+  "next": {
+    "title": "Splunk",
+    "permalink": "/administration/enterprise-features/logs-config/splunk"
+  }
+}

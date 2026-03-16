@@ -1,0 +1,27 @@
+{
+  "id": "administration/enterprise-features/logs-config/splunk",
+  "title": "Splunk",
+  "description": "Connect to your Splunk instance via HTTP Event Collector.",
+  "source": "@site/docs/administration/enterprise-features/logs-config/splunk.md",
+  "sourceDirName": "administration/enterprise-features/logs-config",
+  "slug": "/administration/enterprise-features/logs-config/splunk",
+  "permalink": "/administration/enterprise-features/logs-config/splunk",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Splunk",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Logs Configuration",
+    "permalink": "/administration/enterprise-features/logs-config/"
+  },
+  "next": {
+    "title": "Fluent Bit",
+    "permalink": "/administration/enterprise-features/logs-config/fluent-bit"
+  }
+}

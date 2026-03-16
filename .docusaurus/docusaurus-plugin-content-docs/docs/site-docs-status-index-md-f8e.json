@@ -1,0 +1,19 @@
+{
+  "id": "status/index",
+  "title": "System Status",
+  "description": "AuthSec production services are monitored in real time.",
+  "source": "@site/docs/status/index.md",
+  "sourceDirName": "status",
+  "slug": "/status/",
+  "permalink": "/status/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "System Status",
+    "sidebar_label": "System Status",
+    "sidebar": "statusSidebar"
+  },
+  "sidebar": "statusSidebar"
+}

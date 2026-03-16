@@ -1,0 +1,8 @@
+{
+    "label": "Users",
+    "position": 2,
+    "link": {
+        "type": "doc",
+        "id": "administration/users/getting-started"
+    }
+}

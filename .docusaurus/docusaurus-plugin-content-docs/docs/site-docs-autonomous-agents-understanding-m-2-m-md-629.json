@@ -1,0 +1,27 @@
+{
+  "id": "autonomous-agents/understanding-m2m",
+  "title": "Understanding M2M Auth",
+  "description": "What is Machine-to-Machine Authentication?",
+  "source": "@site/docs/autonomous-agents/understanding-m2m.md",
+  "sourceDirName": "autonomous-agents",
+  "slug": "/autonomous-agents/understanding-m2m",
+  "permalink": "/autonomous-agents/understanding-m2m",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Understanding M2M Auth",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/autonomous-agents"
+  },
+  "next": {
+    "title": "Authorization Steps",
+    "permalink": "/autonomous-agents/authorization-steps/"
+  }
+}

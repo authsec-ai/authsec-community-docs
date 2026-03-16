@@ -1,0 +1,27 @@
+{
+  "id": "autonomous-agents/authorization-steps/index",
+  "title": "Authorization Steps",
+  "description": "Follow these steps to configure M2M authorization between autonomous agents:",
+  "source": "@site/docs/autonomous-agents/authorization-steps/index.md",
+  "sourceDirName": "autonomous-agents/authorization-steps",
+  "slug": "/autonomous-agents/authorization-steps/",
+  "permalink": "/autonomous-agents/authorization-steps/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Authorization Steps",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Understanding M2M Auth",
+    "permalink": "/autonomous-agents/understanding-m2m"
+  },
+  "next": {
+    "title": "Step 1: Onboard Agent A",
+    "permalink": "/autonomous-agents/authorization-steps/onboard-agent-a"
+  }
+}

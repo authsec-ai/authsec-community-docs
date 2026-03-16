@@ -1,0 +1,28 @@
+{
+  "id": "autonomous-agents/overview",
+  "title": "Overview",
+  "description": "What is M2M Authentication?",
+  "source": "@site/docs/autonomous-agents/overview.md",
+  "sourceDirName": "autonomous-agents",
+  "slug": "/autonomous-agents",
+  "permalink": "/autonomous-agents",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Overview",
+    "sidebar_position": 0,
+    "slug": "/autonomous-agents"
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Elasticsearch",
+    "permalink": "/administration/enterprise-features/logs-config/elasticsearch"
+  },
+  "next": {
+    "title": "Understanding M2M Auth",
+    "permalink": "/autonomous-agents/understanding-m2m"
+  }
+}

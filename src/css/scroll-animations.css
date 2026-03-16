@@ -1,0 +1,146 @@
+/**
+ * Scroll-triggered animations for documentation pages
+ */
+
+/* Animate headers on scroll */
+.markdown h1,
+.markdown h2,
+.markdown h3 {
+    animation: fadeInUp 0.6s ease-out;
+}
+
+/* Animate paragraphs and lists */
+.markdown>p,
+.markdown>ul,
+.markdown>ol,
+.markdown>table {
+    animation: fadeInUp 0.7s ease-out;
+}
+
+/* Animate code blocks */
+.markdown pre,
+.markdown .codeBlockContainer {
+    animation: fadeInScale 0.8s ease-out;
+}
+
+/* Animate admonitions (alerts) */
+.alert {
+    animation: slideInLeft 0.7s ease-out;
+}
+
+/* Animate cards and containers */
+.card,
+.theme-doc-sidebar-container {
+    animation: fadeInUp 0.6s ease-out;
+}
+
+/* Keyframe animations */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInScale {
+    from {
+        opacity: 0;
+        transform: scale(0.95);
+        filter: blur(5px);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+        filter: blur(0);
+    }
+}
+
+@keyframes slideInLeft {
+    from {
+        opacity: 0;
+        transform: translateX(-40px);
+        filter: blur(5px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+        filter: blur(0);
+    }
+}
+
+/* Add scroll-based intersection observer animations */
+.theme-doc-markdown {
+    view-timeline: --markdown-timeline;
+}
+
+/* Modern scroll-driven animations (for supported browsers) */
+@supports (animation-timeline: view()) {
+
+    .markdown h1,
+    .markdown h2,
+    .markdown h3,
+    .markdown>p,
+    .markdown>ul,
+    .markdown>ol,
+    .markdown pre {
+        animation-timeline: view();
+        animation-range: entry 0% entry 80%;
+    }
+}
+
+/* Stagger timing for consecutive elements */
+.markdown>*:nth-child(1) {
+    animation-delay: 0s;
+}
+
+.markdown>*:nth-child(2) {
+    animation-delay: 0.05s;
+}
+
+.markdown>*:nth-child(3) {
+    animation-delay: 0.1s;
+}
+
+.markdown>*:nth-child(4) {
+    animation-delay: 0.15s;
+}
+
+.markdown>*:nth-child(5) {
+    animation-delay: 0.2s;
+}
+
+.markdown>*:nth-child(6) {
+    animation-delay: 0.25s;
+}
+
+.markdown>*:nth-child(7) {
+    animation-delay: 0.3s;
+}
+
+.markdown>*:nth-child(8) {
+    animation-delay: 0.35s;
+}
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Reduce motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "sdk/rbac/scopes",
+  "title": "Scopes",
+  "description": "Learn how to create scopes programmatically using the AuthSec SDK.",
+  "source": "@site/docs/sdk/rbac/scopes.md",
+  "sourceDirName": "sdk/rbac",
+  "slug": "/sdk/rbac/scopes",
+  "permalink": "/sdk/rbac/scopes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Scopes",
+    "sidebar_position": 3
+  },
+  "sidebar": "sdkSidebar",
+  "previous": {
+    "title": "Role Bindings",
+    "permalink": "/sdk/rbac/role-bindings"
+  },
+  "next": {
+    "title": "Secret Management",
+    "permalink": "/sdk/external-services/secret-management"
+  }
+}

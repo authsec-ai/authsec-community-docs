@@ -1,0 +1,27 @@
+{
+  "id": "administration/rbac/getting-started",
+  "title": "RBAC",
+  "description": "Overview",
+  "source": "@site/docs/administration/rbac/getting-started.md",
+  "sourceDirName": "administration/rbac",
+  "slug": "/administration/rbac/getting-started",
+  "permalink": "/administration/rbac/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "RBAC",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Sync from Directory",
+    "permalink": "/administration/users/sync-from-directory"
+  },
+  "next": {
+    "title": "Step 1: Create Permissions",
+    "permalink": "/administration/rbac/create-permissions"
+  }
+}

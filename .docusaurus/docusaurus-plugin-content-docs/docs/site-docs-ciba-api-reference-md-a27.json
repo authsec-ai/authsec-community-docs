@@ -1,0 +1,27 @@
+{
+  "id": "ciba/api-reference",
+  "title": "API Reference",
+  "description": "Complete reference for all AuthSec CIBA SDK methods.",
+  "source": "@site/docs/ciba/api-reference.md",
+  "sourceDirName": "ciba",
+  "slug": "/ciba/api-reference",
+  "permalink": "/ciba/api-reference",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "API Reference",
+    "sidebar_position": 5
+  },
+  "sidebar": "cibaSidebar",
+  "previous": {
+    "title": "Authentication Methods",
+    "permalink": "/ciba/authentication-methods"
+  },
+  "next": {
+    "title": "Usage Examples",
+    "permalink": "/ciba/examples"
+  }
+}

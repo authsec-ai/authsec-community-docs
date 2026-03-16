@@ -1,0 +1,27 @@
+{
+  "id": "administration/rbac/create-roles",
+  "title": "Step 2: Create Roles",
+  "description": "Understanding roles",
+  "source": "@site/docs/administration/rbac/create-roles.md",
+  "sourceDirName": "administration/rbac",
+  "slug": "/administration/rbac/create-roles",
+  "permalink": "/administration/rbac/create-roles",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Step 2: Create Roles",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Step 1: Create Permissions",
+    "permalink": "/administration/rbac/create-permissions"
+  },
+  "next": {
+    "title": "Step 3: Create Scopes",
+    "permalink": "/administration/rbac/create-scopes"
+  }
+}

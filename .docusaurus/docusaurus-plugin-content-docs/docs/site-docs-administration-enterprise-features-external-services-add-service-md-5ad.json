@@ -1,0 +1,27 @@
+{
+  "id": "administration/enterprise-features/external-services/add-service",
+  "title": "Add External Service",
+  "description": "External services represent third-party APIs such as payment gateways, messaging platforms, or analytics services.",
+  "source": "@site/docs/administration/enterprise-features/external-services/add-service.md",
+  "sourceDirName": "administration/enterprise-features/external-services",
+  "slug": "/administration/enterprise-features/external-services/add-service",
+  "permalink": "/administration/enterprise-features/external-services/add-service",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Add External Service",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "External Services",
+    "permalink": "/administration/enterprise-features/external-services/"
+  },
+  "next": {
+    "title": "Manage Services",
+    "permalink": "/administration/enterprise-features/external-services/manage-services"
+  }
+}

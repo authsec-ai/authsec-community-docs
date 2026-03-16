@@ -1,0 +1,90 @@
+.cardGrid {
+  padding: 2rem 0;
+}
+
+.cardWrapper {
+  margin-bottom: 2rem;
+}
+
+.card {
+  display: block;
+  height: 100%;
+  padding: 1.5rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 8px;
+  background: var(--ifm-background-color);
+  text-decoration: none;
+  color: var(--ifm-font-color-base);
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+  text-decoration: none;
+  color: var(--ifm-font-color-base);
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+
+.cardHeader {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.cardIcon {
+  font-size: 1.5rem;
+  margin-right: 0.75rem;
+  color: var(--ifm-color-primary);
+}
+
+.cardTitle {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--ifm-heading-color);
+}
+
+.cardBody {
+  flex: 1;
+  margin-bottom: 1rem;
+}
+
+.cardDescription {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.cardFooter {
+  margin-top: auto;
+}
+
+.cardLink {
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--ifm-color-primary);
+}
+
+.card:hover .cardLink {
+  color: var(--ifm-color-primary-dark);
+}
+
+/* Responsive adjustments */
+@media (max-width: 996px) {
+  .cardWrapper {
+    margin-bottom: 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .card {
+    padding: 1.25rem;
+  }
+  
+  .cardTitle {
+    font-size: 1.1rem;
+  }
+}

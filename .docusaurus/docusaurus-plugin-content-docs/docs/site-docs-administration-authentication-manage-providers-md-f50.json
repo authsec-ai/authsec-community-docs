@@ -1,0 +1,27 @@
+{
+  "id": "administration/authentication/manage-providers",
+  "title": "Manage Providers",
+  "description": "From the authentication providers table, actions are available via the row dropdown menu.",
+  "source": "@site/docs/administration/authentication/manage-providers.md",
+  "sourceDirName": "administration/authentication",
+  "slug": "/administration/authentication/manage-providers",
+  "permalink": "/administration/authentication/manage-providers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Manage Providers",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "SAML 2.0 Setup",
+    "permalink": "/administration/authentication/saml-setup"
+  },
+  "next": {
+    "title": "Users",
+    "permalink": "/administration/users/getting-started"
+  }
+}

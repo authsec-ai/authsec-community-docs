@@ -1,0 +1,27 @@
+{
+  "id": "ciba/authentication-methods",
+  "title": "Authentication Methods",
+  "description": "AuthSec SDK supports two authentication methods: CIBA (push notifications) and TOTP (6-digit codes).",
+  "source": "@site/docs/ciba/authentication-methods.md",
+  "sourceDirName": "ciba",
+  "slug": "/ciba/authentication-methods",
+  "permalink": "/ciba/authentication-methods",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Authentication Methods",
+    "sidebar_position": 4
+  },
+  "sidebar": "cibaSidebar",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/ciba/configuration"
+  },
+  "next": {
+    "title": "API Reference",
+    "permalink": "/ciba/api-reference"
+  }
+}

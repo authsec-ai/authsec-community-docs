@@ -1,0 +1,27 @@
+{
+  "id": "ciba/examples",
+  "title": "Usage Examples",
+  "description": "Real-world examples demonstrating how to use the AuthSec CIBA SDK.",
+  "source": "@site/docs/ciba/examples.md",
+  "sourceDirName": "ciba",
+  "slug": "/ciba/examples",
+  "permalink": "/ciba/examples",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Usage Examples",
+    "sidebar_position": 6
+  },
+  "sidebar": "cibaSidebar",
+  "previous": {
+    "title": "API Reference",
+    "permalink": "/ciba/api-reference"
+  },
+  "next": {
+    "title": "Error Handling",
+    "permalink": "/ciba/error-handling"
+  }
+}

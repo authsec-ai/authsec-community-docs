@@ -1,0 +1,27 @@
+{
+  "id": "administration/enterprise-features/index",
+  "title": "Enterprise Features",
+  "description": "Enterprise-grade capabilities for security, compliance, and operational excellence.",
+  "source": "@site/docs/administration/enterprise-features/index.md",
+  "sourceDirName": "administration/enterprise-features",
+  "slug": "/administration/enterprise-features/",
+  "permalink": "/administration/enterprise-features/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Enterprise Features",
+    "sidebar_position": 5
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Client Actions",
+    "permalink": "/administration/clients/client-actions"
+  },
+  "next": {
+    "title": "External Services",
+    "permalink": "/category/external-services"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ciba/configuration",
+  "title": "Configuration",
+  "description": "Initialize the Client",
+  "source": "@site/docs/ciba/configuration.md",
+  "sourceDirName": "ciba",
+  "slug": "/ciba/configuration",
+  "permalink": "/ciba/configuration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Configuration",
+    "sidebar_position": 3
+  },
+  "sidebar": "cibaSidebar",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/ciba/installation"
+  },
+  "next": {
+    "title": "Authentication Methods",
+    "permalink": "/ciba/authentication-methods"
+  }
+}

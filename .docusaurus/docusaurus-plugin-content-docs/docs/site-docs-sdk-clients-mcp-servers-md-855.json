@@ -1,0 +1,27 @@
+{
+  "id": "sdk/clients/mcp-servers",
+  "title": "MCP Servers & AI Agents",
+  "description": "How to Integrate Authentication into Your MCP Server / SDK Agent?",
+  "source": "@site/docs/sdk/clients/mcp-servers.md",
+  "sourceDirName": "sdk/clients",
+  "slug": "/sdk/clients/mcp-servers",
+  "permalink": "/sdk/clients/mcp-servers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "MCP Servers & AI Agents",
+    "sidebar_position": 1
+  },
+  "sidebar": "sdkSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/sdk/"
+  },
+  "next": {
+    "title": "Autonomous Workloads",
+    "permalink": "/sdk/workloads/autonomous-workloads"
+  }
+}

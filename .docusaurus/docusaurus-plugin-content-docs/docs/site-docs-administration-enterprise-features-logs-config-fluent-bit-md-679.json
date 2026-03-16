@@ -1,0 +1,27 @@
+{
+  "id": "administration/enterprise-features/logs-config/fluent-bit",
+  "title": "Fluent Bit",
+  "description": "Stream logs to Fluent Bit for processing and forwarding.",
+  "source": "@site/docs/administration/enterprise-features/logs-config/fluent-bit.md",
+  "sourceDirName": "administration/enterprise-features/logs-config",
+  "slug": "/administration/enterprise-features/logs-config/fluent-bit",
+  "permalink": "/administration/enterprise-features/logs-config/fluent-bit",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Fluent Bit",
+    "sidebar_position": 3
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Splunk",
+    "permalink": "/administration/enterprise-features/logs-config/splunk"
+  },
+  "next": {
+    "title": "Syslog",
+    "permalink": "/administration/enterprise-features/logs-config/syslog"
+  }
+}

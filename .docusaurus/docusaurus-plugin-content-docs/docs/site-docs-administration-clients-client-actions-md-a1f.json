@@ -1,0 +1,27 @@
+{
+  "id": "administration/clients/client-actions",
+  "title": "Client Actions",
+  "description": "Actions are available through the client row menu.",
+  "source": "@site/docs/administration/clients/client-actions.md",
+  "sourceDirName": "administration/clients",
+  "slug": "/administration/clients/client-actions",
+  "permalink": "/administration/clients/client-actions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Client Actions",
+    "sidebar_position": 3
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Onboard Client",
+    "permalink": "/administration/clients/onboard-client"
+  },
+  "next": {
+    "title": "Enterprise Features",
+    "permalink": "/administration/enterprise-features/"
+  }
+}

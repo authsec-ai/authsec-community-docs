@@ -1,0 +1,27 @@
+{
+  "id": "administration/enterprise-features/external-services/index",
+  "title": "External Services",
+  "description": "Overview",
+  "source": "@site/docs/administration/enterprise-features/external-services/index.md",
+  "sourceDirName": "administration/enterprise-features/external-services",
+  "slug": "/administration/enterprise-features/external-services/",
+  "permalink": "/administration/enterprise-features/external-services/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "External Services",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "External Services",
+    "permalink": "/category/external-services"
+  },
+  "next": {
+    "title": "Add External Service",
+    "permalink": "/administration/enterprise-features/external-services/add-service"
+  }
+}

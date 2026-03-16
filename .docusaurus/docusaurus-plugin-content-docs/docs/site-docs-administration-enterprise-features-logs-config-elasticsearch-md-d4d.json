@@ -1,0 +1,27 @@
+{
+  "id": "administration/enterprise-features/logs-config/elasticsearch",
+  "title": "Elasticsearch",
+  "description": "Index logs directly into Elasticsearch.",
+  "source": "@site/docs/administration/enterprise-features/logs-config/elasticsearch.md",
+  "sourceDirName": "administration/enterprise-features/logs-config",
+  "slug": "/administration/enterprise-features/logs-config/elasticsearch",
+  "permalink": "/administration/enterprise-features/logs-config/elasticsearch",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Elasticsearch",
+    "sidebar_position": 5
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Syslog",
+    "permalink": "/administration/enterprise-features/logs-config/syslog"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/autonomous-agents"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "label": "External Services",
+    "position": 2,
+    "link": {
+        "type": "generated-index",
+        "description": "Configure external service integrations for directory sync and enterprise connectivity."
+    }
+}

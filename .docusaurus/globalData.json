@@ -1,0 +1,381 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "docs": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "getting-started/overview",
+          "docs": [
+            {
+              "id": "administration/authentication/index",
+              "path": "/administration/authentication/",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/authentication/manage-providers",
+              "path": "/administration/authentication/manage-providers",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/authentication/oidc-setup",
+              "path": "/administration/authentication/oidc-setup",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/authentication/saml-setup",
+              "path": "/administration/authentication/saml-setup",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/clients/client-actions",
+              "path": "/administration/clients/client-actions",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/clients/index",
+              "path": "/administration/clients/",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/clients/onboard-client",
+              "path": "/administration/clients/onboard-client",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/enterprise-features/external-services/add-service",
+              "path": "/administration/enterprise-features/external-services/add-service",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/enterprise-features/external-services/index",
+              "path": "/administration/enterprise-features/external-services/",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/enterprise-features/external-services/manage-services",
+              "path": "/administration/enterprise-features/external-services/manage-services",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/enterprise-features/external-services/secrets-management",
+              "path": "/administration/enterprise-features/external-services/secrets-management",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/enterprise-features/index",
+              "path": "/administration/enterprise-features/",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/enterprise-features/logs-config/elasticsearch",
+              "path": "/administration/enterprise-features/logs-config/elasticsearch",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/enterprise-features/logs-config/fluent-bit",
+              "path": "/administration/enterprise-features/logs-config/fluent-bit",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/enterprise-features/logs-config/index",
+              "path": "/administration/enterprise-features/logs-config/",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/enterprise-features/logs-config/splunk",
+              "path": "/administration/enterprise-features/logs-config/splunk",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/enterprise-features/logs-config/syslog",
+              "path": "/administration/enterprise-features/logs-config/syslog",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/index",
+              "path": "/administration/",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/rbac/create-permissions",
+              "path": "/administration/rbac/create-permissions",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/rbac/create-role-bindings",
+              "path": "/administration/rbac/create-role-bindings",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/rbac/create-roles",
+              "path": "/administration/rbac/create-roles",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/rbac/create-scopes",
+              "path": "/administration/rbac/create-scopes",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/rbac/getting-started",
+              "path": "/administration/rbac/getting-started",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/rbac/verify-application",
+              "path": "/administration/rbac/verify-application",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/users/getting-started",
+              "path": "/administration/users/getting-started",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/users/invite-user",
+              "path": "/administration/users/invite-user",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "administration/users/sync-from-directory",
+              "path": "/administration/users/sync-from-directory",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "autonomous-agents/authorization-steps/configure-trust-policy",
+              "path": "/autonomous-agents/authorization-steps/configure-trust-policy",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "autonomous-agents/authorization-steps/enforce-rbac",
+              "path": "/autonomous-agents/authorization-steps/enforce-rbac",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "autonomous-agents/authorization-steps/index",
+              "path": "/autonomous-agents/authorization-steps/",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "autonomous-agents/authorization-steps/issue-verify-svids",
+              "path": "/autonomous-agents/authorization-steps/issue-verify-svids",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "autonomous-agents/authorization-steps/onboard-agent-a",
+              "path": "/autonomous-agents/authorization-steps/onboard-agent-a",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "autonomous-agents/authorization-steps/onboard-agent-b",
+              "path": "/autonomous-agents/authorization-steps/onboard-agent-b",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "autonomous-agents/authorization-steps/test-authorization",
+              "path": "/autonomous-agents/authorization-steps/test-authorization",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "autonomous-agents/best-practices",
+              "path": "/autonomous-agents/best-practices",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "autonomous-agents/configure-workload",
+              "path": "/autonomous-agents/configure-workload",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "autonomous-agents/faq",
+              "path": "/autonomous-agents/faq",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "autonomous-agents/integrate-spire",
+              "path": "/autonomous-agents/integrate-spire",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "autonomous-agents/overview",
+              "path": "/autonomous-agents",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "autonomous-agents/understanding-m2m",
+              "path": "/autonomous-agents/understanding-m2m",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "ciba/api-reference",
+              "path": "/ciba/api-reference",
+              "sidebar": "cibaSidebar"
+            },
+            {
+              "id": "ciba/authentication-methods",
+              "path": "/ciba/authentication-methods",
+              "sidebar": "cibaSidebar"
+            },
+            {
+              "id": "ciba/configuration",
+              "path": "/ciba/configuration",
+              "sidebar": "cibaSidebar"
+            },
+            {
+              "id": "ciba/error-handling",
+              "path": "/ciba/error-handling",
+              "sidebar": "cibaSidebar"
+            },
+            {
+              "id": "ciba/examples",
+              "path": "/ciba/examples",
+              "sidebar": "cibaSidebar"
+            },
+            {
+              "id": "ciba/faq",
+              "path": "/ciba/faq",
+              "sidebar": "cibaSidebar"
+            },
+            {
+              "id": "ciba/index",
+              "path": "/ciba/",
+              "sidebar": "cibaSidebar"
+            },
+            {
+              "id": "ciba/installation",
+              "path": "/ciba/installation",
+              "sidebar": "cibaSidebar"
+            },
+            {
+              "id": "getting-started/create-workspace",
+              "path": "/getting-started/create-workspace",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "getting-started/dashboard-overview",
+              "path": "/getting-started/dashboard-overview",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "getting-started/first-login",
+              "path": "/getting-started/first-login",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "getting-started/next-steps",
+              "path": "/getting-started/next-steps",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "getting-started/overview",
+              "path": "/getting-started",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "getting-started/secure-account",
+              "path": "/getting-started/secure-account",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "getting-started/sign-in-setup",
+              "path": "/getting-started/sign-in-setup",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "sdk/clients/mcp-servers",
+              "path": "/sdk/clients/mcp-servers",
+              "sidebar": "sdkSidebar"
+            },
+            {
+              "id": "sdk/external-services/secret-management",
+              "path": "/sdk/external-services/secret-management",
+              "sidebar": "sdkSidebar"
+            },
+            {
+              "id": "sdk/faq",
+              "path": "/sdk/faq",
+              "sidebar": "sdkSidebar"
+            },
+            {
+              "id": "sdk/index",
+              "path": "/sdk/",
+              "sidebar": "sdkSidebar"
+            },
+            {
+              "id": "sdk/rbac/permissions-resources",
+              "path": "/sdk/rbac/permissions-resources",
+              "sidebar": "sdkSidebar"
+            },
+            {
+              "id": "sdk/rbac/role-bindings",
+              "path": "/sdk/rbac/role-bindings",
+              "sidebar": "sdkSidebar"
+            },
+            {
+              "id": "sdk/rbac/scopes",
+              "path": "/sdk/rbac/scopes",
+              "sidebar": "sdkSidebar"
+            },
+            {
+              "id": "sdk/workloads/autonomous-workloads",
+              "path": "/sdk/workloads/autonomous-workloads",
+              "sidebar": "sdkSidebar"
+            },
+            {
+              "id": "status/index",
+              "path": "/status/",
+              "sidebar": "statusSidebar"
+            },
+            {
+              "id": "/category/authentication",
+              "path": "/category/authentication",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "/category/external-services",
+              "path": "/category/external-services",
+              "sidebar": "mainDocsSidebar"
+            },
+            {
+              "id": "/category/logs-configuration",
+              "path": "/category/logs-configuration",
+              "sidebar": "mainDocsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "mainDocsSidebar": {
+              "link": {
+                "path": "/getting-started",
+                "label": "getting-started/overview"
+              }
+            },
+            "cibaSidebar": {
+              "link": {
+                "path": "/ciba/",
+                "label": "ciba/index"
+              }
+            },
+            "sdkSidebar": {
+              "link": {
+                "path": "/sdk/",
+                "label": "sdk/index"
+              }
+            },
+            "statusSidebar": {
+              "link": {
+                "path": "/status/",
+                "label": "System Status"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

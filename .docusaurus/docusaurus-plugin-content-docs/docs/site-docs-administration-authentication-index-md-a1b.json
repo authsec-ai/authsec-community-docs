@@ -1,0 +1,27 @@
+{
+  "id": "administration/authentication/index",
+  "title": "Authentication",
+  "description": "Overview",
+  "source": "@site/docs/administration/authentication/index.md",
+  "sourceDirName": "administration/authentication",
+  "slug": "/administration/authentication/",
+  "permalink": "/administration/authentication/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Authentication",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Authentication",
+    "permalink": "/category/authentication"
+  },
+  "next": {
+    "title": "OIDC / OAuth 2.1 Setup",
+    "permalink": "/administration/authentication/oidc-setup"
+  }
+}

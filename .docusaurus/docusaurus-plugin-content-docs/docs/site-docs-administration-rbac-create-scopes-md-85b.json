@@ -1,0 +1,27 @@
+{
+  "id": "administration/rbac/create-scopes",
+  "title": "Step 3: Create Scopes",
+  "description": "What are scopes?",
+  "source": "@site/docs/administration/rbac/create-scopes.md",
+  "sourceDirName": "administration/rbac",
+  "slug": "/administration/rbac/create-scopes",
+  "permalink": "/administration/rbac/create-scopes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Step 3: Create Scopes",
+    "sidebar_position": 3
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Step 2: Create Roles",
+    "permalink": "/administration/rbac/create-roles"
+  },
+  "next": {
+    "title": "Step 4: Create Role Bindings",
+    "permalink": "/administration/rbac/create-role-bindings"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "administration/rbac/create-permissions",
+  "title": "Step 1: Create Permissions",
+  "description": "What is permission?",
+  "source": "@site/docs/administration/rbac/create-permissions.md",
+  "sourceDirName": "administration/rbac",
+  "slug": "/administration/rbac/create-permissions",
+  "permalink": "/administration/rbac/create-permissions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Step 1: Create Permissions",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "RBAC",
+    "permalink": "/administration/rbac/getting-started"
+  },
+  "next": {
+    "title": "Step 2: Create Roles",
+    "permalink": "/administration/rbac/create-roles"
+  }
+}

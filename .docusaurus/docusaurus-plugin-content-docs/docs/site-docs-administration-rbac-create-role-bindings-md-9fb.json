@@ -1,0 +1,27 @@
+{
+  "id": "administration/rbac/create-role-bindings",
+  "title": "Step 4: Create Role Bindings",
+  "description": "What are role bindings?",
+  "source": "@site/docs/administration/rbac/create-role-bindings.md",
+  "sourceDirName": "administration/rbac",
+  "slug": "/administration/rbac/create-role-bindings",
+  "permalink": "/administration/rbac/create-role-bindings",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Step 4: Create Role Bindings",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Step 3: Create Scopes",
+    "permalink": "/administration/rbac/create-scopes"
+  },
+  "next": {
+    "title": "Step 5: Verify in Your Application",
+    "permalink": "/administration/rbac/verify-application"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "administration/users/getting-started",
+  "title": "Users",
+  "description": "Overview",
+  "source": "@site/docs/administration/users/getting-started.md",
+  "sourceDirName": "administration/users",
+  "slug": "/administration/users/getting-started",
+  "permalink": "/administration/users/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Users",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Manage Providers",
+    "permalink": "/administration/authentication/manage-providers"
+  },
+  "next": {
+    "title": "Invite a User",
+    "permalink": "/administration/users/invite-user"
+  }
+}

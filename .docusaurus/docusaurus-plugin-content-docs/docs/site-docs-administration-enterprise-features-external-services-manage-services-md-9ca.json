@@ -1,0 +1,27 @@
+{
+  "id": "administration/enterprise-features/external-services/manage-services",
+  "title": "Manage Services",
+  "description": "Service List",
+  "source": "@site/docs/administration/enterprise-features/external-services/manage-services.md",
+  "sourceDirName": "administration/enterprise-features/external-services",
+  "slug": "/administration/enterprise-features/external-services/manage-services",
+  "permalink": "/administration/enterprise-features/external-services/manage-services",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Manage Services",
+    "sidebar_position": 3
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Add External Service",
+    "permalink": "/administration/enterprise-features/external-services/add-service"
+  },
+  "next": {
+    "title": "Secrets Management",
+    "permalink": "/administration/enterprise-features/external-services/secrets-management"
+  }
+}

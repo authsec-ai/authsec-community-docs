@@ -1,0 +1,27 @@
+{
+  "id": "getting-started/next-steps",
+  "title": "Next Steps",
+  "description": "Congratulations! You've completed the AuthSec onboarding process. Now it's time to configure authentication for your applications and unlock the full power of the platform.",
+  "source": "@site/docs/getting-started/next-steps.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/next-steps",
+  "permalink": "/getting-started/next-steps",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Next Steps",
+    "sidebar_position": 6
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Dashboard Overview",
+    "permalink": "/getting-started/dashboard-overview"
+  },
+  "next": {
+    "title": "Administration",
+    "permalink": "/administration/"
+  }
+}

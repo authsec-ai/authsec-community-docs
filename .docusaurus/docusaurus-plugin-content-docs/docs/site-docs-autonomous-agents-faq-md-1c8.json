@@ -1,0 +1,23 @@
+{
+  "id": "autonomous-agents/faq",
+  "title": "FAQ",
+  "description": "Common questions about M2M authentication, SPIFFE/SPIRE, and autonomous workload management with AuthSec.",
+  "source": "@site/docs/autonomous-agents/faq.md",
+  "sourceDirName": "autonomous-agents",
+  "slug": "/autonomous-agents/faq",
+  "permalink": "/autonomous-agents/faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "FAQ",
+    "sidebar_position": 6
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Security Best Practices",
+    "permalink": "/autonomous-agents/best-practices"
+  }
+}

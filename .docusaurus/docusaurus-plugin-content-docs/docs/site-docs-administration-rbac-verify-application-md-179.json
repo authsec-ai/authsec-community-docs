@@ -1,0 +1,27 @@
+{
+  "id": "administration/rbac/verify-application",
+  "title": "Step 5: Verify in Your Application",
+  "description": "Use the SDK to verify user access:",
+  "source": "@site/docs/administration/rbac/verify-application.md",
+  "sourceDirName": "administration/rbac",
+  "slug": "/administration/rbac/verify-application",
+  "permalink": "/administration/rbac/verify-application",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Step 5: Verify in Your Application",
+    "sidebar_position": 5
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Step 4: Create Role Bindings",
+    "permalink": "/administration/rbac/create-role-bindings"
+  },
+  "next": {
+    "title": "Clients",
+    "permalink": "/administration/clients/"
+  }
+}

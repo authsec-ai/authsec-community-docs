@@ -1,0 +1,27 @@
+{
+  "id": "administration/enterprise-features/logs-config/syslog",
+  "title": "Syslog",
+  "description": "Stream logs to your Syslog server via UDP or TCP.",
+  "source": "@site/docs/administration/enterprise-features/logs-config/syslog.md",
+  "sourceDirName": "administration/enterprise-features/logs-config",
+  "slug": "/administration/enterprise-features/logs-config/syslog",
+  "permalink": "/administration/enterprise-features/logs-config/syslog",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Syslog",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Fluent Bit",
+    "permalink": "/administration/enterprise-features/logs-config/fluent-bit"
+  },
+  "next": {
+    "title": "Elasticsearch",
+    "permalink": "/administration/enterprise-features/logs-config/elasticsearch"
+  }
+}

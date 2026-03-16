@@ -1,0 +1,27 @@
+{
+  "id": "sdk/rbac/role-bindings",
+  "title": "Role Bindings",
+  "description": "Learn how to create role bindings programmatically using the AuthSec SDK.",
+  "source": "@site/docs/sdk/rbac/role-bindings.md",
+  "sourceDirName": "sdk/rbac",
+  "slug": "/sdk/rbac/role-bindings",
+  "permalink": "/sdk/rbac/role-bindings",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Role Bindings",
+    "sidebar_position": 2
+  },
+  "sidebar": "sdkSidebar",
+  "previous": {
+    "title": "Permissions & Resources",
+    "permalink": "/sdk/rbac/permissions-resources"
+  },
+  "next": {
+    "title": "Scopes",
+    "permalink": "/sdk/rbac/scopes"
+  }
+}

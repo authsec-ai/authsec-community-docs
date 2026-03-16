@@ -1,0 +1,27 @@
+{
+  "id": "autonomous-agents/best-practices",
+  "title": "Security Best Practices",
+  "description": "This guide outlines recommended security practices for M2M authentication deployments with AuthSec, covering credential management, access control, network security, monitoring, and incident response.",
+  "source": "@site/docs/autonomous-agents/best-practices.md",
+  "sourceDirName": "autonomous-agents",
+  "slug": "/autonomous-agents/best-practices",
+  "permalink": "/autonomous-agents/best-practices",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Security Best Practices",
+    "sidebar_position": 5
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Integrate SPIRE",
+    "permalink": "/autonomous-agents/integrate-spire"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/autonomous-agents/faq"
+  }
+}

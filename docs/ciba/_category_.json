@@ -1,0 +1,8 @@
+{
+    "label": "CIBA SDK",
+    "position": 3,
+    "link": {
+        "type": "generated-index",
+        "description": "Complete guide to using the AuthSec CIBA SDK for passwordless authentication with push notifications and TOTP."
+    }
+}

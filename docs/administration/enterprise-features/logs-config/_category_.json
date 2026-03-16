@@ -1,0 +1,8 @@
+{
+    "label": "Logs Configuration",
+    "position": 3,
+    "link": {
+        "type": "generated-index",
+        "description": "Configure logging and monitoring for security, compliance, and troubleshooting."
+    }
+}

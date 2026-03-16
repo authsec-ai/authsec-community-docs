@@ -1,0 +1,27 @@
+{
+  "id": "autonomous-agents/integrate-spire",
+  "title": "Integrate SPIRE",
+  "description": "This guide covers deploying and configuring SPIRE (SPIFFE Runtime Environment) with AuthSec for automatic workload identity management and certificate rotation.",
+  "source": "@site/docs/autonomous-agents/integrate-spire.md",
+  "sourceDirName": "autonomous-agents",
+  "slug": "/autonomous-agents/integrate-spire",
+  "permalink": "/autonomous-agents/integrate-spire",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Integrate SPIRE",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Configure Autonomous Workload",
+    "permalink": "/autonomous-agents/configure-workload"
+  },
+  "next": {
+    "title": "Security Best Practices",
+    "permalink": "/autonomous-agents/best-practices"
+  }
+}

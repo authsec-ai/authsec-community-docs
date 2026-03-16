@@ -1,0 +1,27 @@
+{
+  "id": "getting-started/sign-in-setup",
+  "title": "Sign In & Account Setup",
+  "description": "Email Sign In",
+  "source": "@site/docs/getting-started/sign-in-setup.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/sign-in-setup",
+  "permalink": "/getting-started/sign-in-setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Sign In & Account Setup",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/getting-started"
+  },
+  "next": {
+    "title": "Create Workspace",
+    "permalink": "/getting-started/create-workspace"
+  }
+}

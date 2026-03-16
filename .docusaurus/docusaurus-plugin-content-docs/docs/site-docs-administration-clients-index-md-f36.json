@@ -1,0 +1,27 @@
+{
+  "id": "administration/clients/index",
+  "title": "Clients",
+  "description": "Overview",
+  "source": "@site/docs/administration/clients/index.md",
+  "sourceDirName": "administration/clients",
+  "slug": "/administration/clients/",
+  "permalink": "/administration/clients/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Clients",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Step 5: Verify in Your Application",
+    "permalink": "/administration/rbac/verify-application"
+  },
+  "next": {
+    "title": "Onboard Client",
+    "permalink": "/administration/clients/onboard-client"
+  }
+}

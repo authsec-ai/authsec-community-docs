@@ -1,0 +1,27 @@
+{
+  "id": "autonomous-agents/authorization-steps/enforce-rbac",
+  "title": "Step 6: Enforce RBAC",
+  "description": "1. Apply OAuth scopes or roles for fine-grained authorization",
+  "source": "@site/docs/autonomous-agents/authorization-steps/enforce-rbac.md",
+  "sourceDirName": "autonomous-agents/authorization-steps",
+  "slug": "/autonomous-agents/authorization-steps/enforce-rbac",
+  "permalink": "/autonomous-agents/authorization-steps/enforce-rbac",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Step 6: Enforce RBAC",
+    "sidebar_position": 6
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Step 5: Test Authorization",
+    "permalink": "/autonomous-agents/authorization-steps/test-authorization"
+  },
+  "next": {
+    "title": "Configure Autonomous Workload",
+    "permalink": "/autonomous-agents/configure-workload"
+  }
+}

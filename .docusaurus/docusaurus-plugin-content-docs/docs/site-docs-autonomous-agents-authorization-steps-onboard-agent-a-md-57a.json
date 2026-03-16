@@ -1,0 +1,27 @@
+{
+  "id": "autonomous-agents/authorization-steps/onboard-agent-a",
+  "title": "Step 1: Onboard Agent A",
+  "description": "1. Navigate to Workloads and create a new workload",
+  "source": "@site/docs/autonomous-agents/authorization-steps/onboard-agent-a.md",
+  "sourceDirName": "autonomous-agents/authorization-steps",
+  "slug": "/autonomous-agents/authorization-steps/onboard-agent-a",
+  "permalink": "/autonomous-agents/authorization-steps/onboard-agent-a",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Step 1: Onboard Agent A",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Authorization Steps",
+    "permalink": "/autonomous-agents/authorization-steps/"
+  },
+  "next": {
+    "title": "Step 2: Onboard Agent B",
+    "permalink": "/autonomous-agents/authorization-steps/onboard-agent-b"
+  }
+}

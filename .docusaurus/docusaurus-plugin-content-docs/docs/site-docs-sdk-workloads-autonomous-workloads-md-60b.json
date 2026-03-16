@@ -1,0 +1,27 @@
+{
+  "id": "sdk/workloads/autonomous-workloads",
+  "title": "Autonomous Workloads",
+  "description": "Configure Workload Identity Using a SDK",
+  "source": "@site/docs/sdk/workloads/autonomous-workloads.md",
+  "sourceDirName": "sdk/workloads",
+  "slug": "/sdk/workloads/autonomous-workloads",
+  "permalink": "/sdk/workloads/autonomous-workloads",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Autonomous Workloads",
+    "sidebar_position": 1
+  },
+  "sidebar": "sdkSidebar",
+  "previous": {
+    "title": "MCP Servers & AI Agents",
+    "permalink": "/sdk/clients/mcp-servers"
+  },
+  "next": {
+    "title": "Permissions & Resources",
+    "permalink": "/sdk/rbac/permissions-resources"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "autonomous-agents/authorization-steps/configure-trust-policy",
+  "title": "Step 3: Configure Trust Policy",
+  "description": "1. Define trust rules in the admin UI",
+  "source": "@site/docs/autonomous-agents/authorization-steps/configure-trust-policy.md",
+  "sourceDirName": "autonomous-agents/authorization-steps",
+  "slug": "/autonomous-agents/authorization-steps/configure-trust-policy",
+  "permalink": "/autonomous-agents/authorization-steps/configure-trust-policy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Step 3: Configure Trust Policy",
+    "sidebar_position": 3
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Step 2: Onboard Agent B",
+    "permalink": "/autonomous-agents/authorization-steps/onboard-agent-b"
+  },
+  "next": {
+    "title": "Step 4: Issue and Verify SVIDs",
+    "permalink": "/autonomous-agents/authorization-steps/issue-verify-svids"
+  }
+}

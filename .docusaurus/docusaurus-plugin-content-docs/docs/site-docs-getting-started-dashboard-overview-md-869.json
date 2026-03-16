@@ -1,0 +1,27 @@
+{
+  "id": "getting-started/dashboard-overview",
+  "title": "Dashboard Overview",
+  "description": "Once logged in, you will land on the AuthSec Dashboard - your central hub for managing authentication, users, and security.",
+  "source": "@site/docs/getting-started/dashboard-overview.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/dashboard-overview",
+  "permalink": "/getting-started/dashboard-overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Dashboard Overview",
+    "sidebar_position": 5
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "First Login Experience",
+    "permalink": "/getting-started/first-login"
+  },
+  "next": {
+    "title": "Next Steps",
+    "permalink": "/getting-started/next-steps"
+  }
+}

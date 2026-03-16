@@ -1,0 +1,23 @@
+{
+  "id": "ciba/index",
+  "title": "Overview",
+  "description": "Passwordless authentication SDK for voice clients and applications using CIBA (Client-Initiated Backchannel Authentication) and TOTP.",
+  "source": "@site/docs/ciba/index.md",
+  "sourceDirName": "ciba",
+  "slug": "/ciba/",
+  "permalink": "/ciba/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Overview",
+    "sidebar_position": 1
+  },
+  "sidebar": "cibaSidebar",
+  "next": {
+    "title": "Installation",
+    "permalink": "/ciba/installation"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "administration/authentication/oidc-setup",
+  "title": "OIDC / OAuth 2.1 Setup",
+  "description": "Click the \"Add Method\" button and select \"OIDC / OAuth 2.0\" from the modal.",
+  "source": "@site/docs/administration/authentication/oidc-setup.md",
+  "sourceDirName": "administration/authentication",
+  "slug": "/administration/authentication/oidc-setup",
+  "permalink": "/administration/authentication/oidc-setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "OIDC / OAuth 2.1 Setup",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Authentication",
+    "permalink": "/administration/authentication/"
+  },
+  "next": {
+    "title": "SAML 2.0 Setup",
+    "permalink": "/administration/authentication/saml-setup"
+  }
+}

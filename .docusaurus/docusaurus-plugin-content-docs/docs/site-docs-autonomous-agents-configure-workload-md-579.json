@@ -1,0 +1,27 @@
+{
+  "id": "autonomous-agents/configure-workload",
+  "title": "Configure Autonomous Workload",
+  "description": "This guide walks through registering an autonomous agent as a client application in AuthSec and configuring the OAuth 2.0 Client Credentials flow for M2M authentication.",
+  "source": "@site/docs/autonomous-agents/configure-workload.md",
+  "sourceDirName": "autonomous-agents",
+  "slug": "/autonomous-agents/configure-workload",
+  "permalink": "/autonomous-agents/configure-workload",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Configure Autonomous Workload",
+    "sidebar_position": 3
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Step 6: Enforce RBAC",
+    "permalink": "/autonomous-agents/authorization-steps/enforce-rbac"
+  },
+  "next": {
+    "title": "Integrate SPIRE",
+    "permalink": "/autonomous-agents/integrate-spire"
+  }
+}

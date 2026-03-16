@@ -1,0 +1,27 @@
+{
+  "id": "ciba/installation",
+  "title": "Installation",
+  "description": "Using AuthSec SDK Package",
+  "source": "@site/docs/ciba/installation.md",
+  "sourceDirName": "ciba",
+  "slug": "/ciba/installation",
+  "permalink": "/ciba/installation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Installation",
+    "sidebar_position": 2
+  },
+  "sidebar": "cibaSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/ciba/"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/ciba/configuration"
+  }
+}

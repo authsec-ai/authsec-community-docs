@@ -1,0 +1,27 @@
+{
+  "id": "administration/users/sync-from-directory",
+  "title": "Sync from Directory",
+  "description": "1. Open the Users page in the dashboard",
+  "source": "@site/docs/administration/users/sync-from-directory.md",
+  "sourceDirName": "administration/users",
+  "slug": "/administration/users/sync-from-directory",
+  "permalink": "/administration/users/sync-from-directory",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Sync from Directory",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Invite a User",
+    "permalink": "/administration/users/invite-user"
+  },
+  "next": {
+    "title": "RBAC",
+    "permalink": "/administration/rbac/getting-started"
+  }
+}

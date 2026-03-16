@@ -1,0 +1,27 @@
+{
+  "id": "administration/clients/onboard-client",
+  "title": "Onboard Client",
+  "description": "You can onboard a new client to represent an MCP server or an AI agent.",
+  "source": "@site/docs/administration/clients/onboard-client.md",
+  "sourceDirName": "administration/clients",
+  "slug": "/administration/clients/onboard-client",
+  "permalink": "/administration/clients/onboard-client",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Onboard Client",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Clients",
+    "permalink": "/administration/clients/"
+  },
+  "next": {
+    "title": "Client Actions",
+    "permalink": "/administration/clients/client-actions"
+  }
+}

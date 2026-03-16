@@ -1,0 +1,27 @@
+{
+  "id": "autonomous-agents/authorization-steps/issue-verify-svids",
+  "title": "Step 4: Issue and Verify SVIDs",
+  "description": "1. SPIRE automatically issues short-lived SVIDs",
+  "source": "@site/docs/autonomous-agents/authorization-steps/issue-verify-svids.md",
+  "sourceDirName": "autonomous-agents/authorization-steps",
+  "slug": "/autonomous-agents/authorization-steps/issue-verify-svids",
+  "permalink": "/autonomous-agents/authorization-steps/issue-verify-svids",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Step 4: Issue and Verify SVIDs",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainDocsSidebar",
+  "previous": {
+    "title": "Step 3: Configure Trust Policy",
+    "permalink": "/autonomous-agents/authorization-steps/configure-trust-policy"
+  },
+  "next": {
+    "title": "Step 5: Test Authorization",
+    "permalink": "/autonomous-agents/authorization-steps/test-authorization"
+  }
+}
